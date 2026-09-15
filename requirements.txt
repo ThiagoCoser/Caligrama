@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+ebooklib
+beautifulsoup4
+numpy
+lxml
