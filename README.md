@@ -4,13 +4,13 @@ Esta projeto foi realizada para a disciplina V204 - Laboratório IV, oferecida n
 
 # Atalhos
 
-W - Ativa webcam
-S - ativa som
-Q	- Diminui intensidade do efeito webcam (−0.5)
-E	- Aumenta intensidade do efeito webcam (+0.5)
-Z	- Diminui intensidade do efeito som (−0.5)
-X	- Aumenta intensidade do efeito som (+0.5)
-Esc - sai
+- W - Ativa webcam
+- S - ativa som
+- Q	- Diminui intensidade do efeito webcam (−0.5)
+- E	- Aumenta intensidade do efeito webcam (+0.5)
+- Z	- Diminui intensidade do efeito som (−0.5)
+- X	- Aumenta intensidade do efeito som (+0.5)
+- Esc - sai
 
 <img src="/Images/b.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
 <img src="/output/caligrama_0001.png" style='height: 100%; width: 100%; object-fit: contain'/>
